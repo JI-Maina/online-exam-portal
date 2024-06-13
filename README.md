@@ -14,7 +14,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Badges -->
 <p>
   <a href="https://github.com/JI-Maina/online-exam-portal/graphs/contributors">
+
     <img src="https://img.shields.io/github/contributors/JI-Maina/online-exam-portal" alt="contributors" />
+
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/JI-Maina/online-exam-portal" alt="last update" />
