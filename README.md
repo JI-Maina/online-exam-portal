@@ -240,6 +240,24 @@ Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan
 
 Project Link: [https://github.com/JI-Maina/online-exam-portal](https://github.com/JI-Maina/online-exam-portal)
 
+<!-- Commands used -->
+
+## :gem: Commands Used
+
+Following commands have been used in this projct
+
+```bash
+  git clone
+  git add
+  git commit
+  git push
+  git merge
+  git pull
+  git branch
+  git checkout
+  git log
+```
+
 <!-- Acknowledgments -->
 
 ## :gem: Acknowledgements
